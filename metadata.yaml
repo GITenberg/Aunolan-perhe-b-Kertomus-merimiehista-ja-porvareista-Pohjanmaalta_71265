@@ -1,0 +1,30 @@
+_repo: Aunolan-perhe-b-Kertomus-merimiehista-ja-porvareista-Pohjanmaalta_71265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Impola, Heikki
+    alias: Rasila, Heikki
+    birthdate: 1887
+    deathdate: 1971
+    gutenberg_agent_id: '56145'
+    url: http://www.gutenberg.org/2009/agents/56145
+    wikipedia: https://fi.wikipedia.org/wiki/Heikki_Impola
+description: ''
+gutenberg_issued: '2023-07-24'
+identifiers:
+  gutenberg: '71265'
+language: fi
+pgterms:marc905: 20220621084800impola
+pgterms:marc906: '1916'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: '  $aFinland :$bKust.Oy Kirja, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Aunolan perhe : $b Kertomus merimiehistä ja porvareista Pohjanmaalta'
+url: http://www.gutenberg.org/ebooks/71265
